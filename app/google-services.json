@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27858205691",
+    "project_id": "gear2care-47afb",
+    "storage_bucket": "gear2care-47afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27858205691:android:14004cf45ad82f3ba3295e",
+        "android_client_info": {
+          "package_name": "com.project.gear2care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27858205691-moftpepkmgeboe6t9nab9np3maljtdjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fyTfAouKau7fisGpO7fh1bWvqR-2Ws0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27858205691-moftpepkmgeboe6t9nab9np3maljtdjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
